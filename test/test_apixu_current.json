@@ -1,0 +1,41 @@
+{
+    "location": {
+        "name": "Yukon",
+        "region": "Oklahoma",
+        "country": "USA",
+        "lat": 35.5,
+        "lon": -97.73,
+        "tz_id": "America/Chicago",
+        "localtime_epoch": 1553643829,
+        "localtime": "2019-03-26 18:43"
+    },
+    "current": {
+        "last_updated_epoch": 1553643008,
+        "last_updated": "2019-03-26 18:30",
+        "temp_c": 20.0,
+        "temp_f": 68.0,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.apixu.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 8.1,
+        "wind_kph": 13.0,
+        "wind_degree": 130,
+        "wind_dir": "SE",
+        "pressure_mb": 1024.0,
+        "pressure_in": 30.7,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 36,
+        "cloud": 0,
+        "feelslike_c": 20.0,
+        "feelslike_f": 68.0,
+        "vis_km": 16.0,
+        "vis_miles": 9.0,
+        "uv": 6.0,
+        "gust_mph": 9.2,
+        "gust_kph": 14.8
+    }
+}
